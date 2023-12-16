@@ -1,0 +1,23 @@
+{
+  "name": "uploadfiles",
+  "label": "Upload files",
+  "type": "widget",
+  "version": "1.12.0",
+  "exbVersion": "1.12.0",
+  "author": "Dvirus",
+  "description": "Dvirus upload",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en",
+    "he"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ]
+}
